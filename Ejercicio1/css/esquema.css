@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+
+header{
+    width: auto;
+    height: 4vw;
+    margin: 20px;
+    background-color: rgb(255, 107, 91);
+    border: 10px solid #f44611;
+    text-align: center;
+    padding-top: 3vw;
+}
+
+navigation{
+    position: absolute;
+    width: 37%;
+    height: 31.5%;
+    background-color: rgb(255, 107, 91);
+
+    border: 10px solid #f44611;
+
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 15%;
+}
+
+article{
+    margin-left: 40.8%;
+    width: 57%;
+    height: 3.9vw;
+    margin-bottom: 20px;
+    background-color: rgb(255, 107, 91);
+
+    border: 8px solid #f44611;
+    text-align: center;
+    padding-top: 5%;
+}
+
+footer{
+    width: auto;
+    margin: 20px;
+    background-color: #11ab51;
+
+    border: 6px solid #077936;
+    text-align: center;
+    padding-top: 2%;
+    height: 3vw;
+}
+
